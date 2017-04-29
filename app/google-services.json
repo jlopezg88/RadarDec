@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271610533670",
+    "firebase_url": "https://poyecto-a00b2.firebaseio.com",
+    "project_id": "poyecto-a00b2",
+    "storage_bucket": "poyecto-a00b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271610533670:android:abf605b1c1542d99",
+        "android_client_info": {
+          "package_name": "proyecto.com.radardec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271610533670-gn2eatkfd45l5umdjvgtv19rj6lc419q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proyecto.com.radardec",
+            "certificate_hash": "CFABBD623F36FBD3EA1E74B3A566814E0601E8F0"
+          }
+        },
+        {
+          "client_id": "271610533670-8ob956tdpbvi1l2catdksde5mq0u3f7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzbS6nKMMYuoyadHx40Cz-7HxW0Kg29c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271610533670-8ob956tdpbvi1l2catdksde5mq0u3f7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RadarDec</string>
+    <string name="drawer_titulo1">Navegacion</string>
+    <string name="drawer_titulo2">Lista Radares</string>
+    <string name="drawer_titulo3">Radares Destacados</string>
+    <string name="drawer_titulo4">Ranking</string>
+    <string name="title_activity_radares_destacados">RadaresDestacados</string>
+</resources>
