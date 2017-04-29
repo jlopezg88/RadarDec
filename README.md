@@ -1,7 +1,7 @@
 # RadarDec
 This is a native android app with which you can view and detect the radars of Seville. Which has the following functionalities:
 <ol>
-<li>Real-time navigation and radar interaction.</li>
+<li>Real-time navigation and radars interaction.</li>
 <li>When the radar is less than 100 meters we are warned by voice and if we approach less than 50 meters will warn us by a sound.</li>
 <li>Switching map to night mode when there is a significant change of light.</li>
 <li>Grouping all radars in a cluster</li>
