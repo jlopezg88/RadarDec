@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:text="nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nombre"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="longitud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/longitud"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_below="@+id/nombre"
+        android:layout_toEndOf="@+id/nombre" />
+
+    <TextView
+        android:text="latitud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/latitud"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_below="@+id/nombre"
+        android:layout_toStartOf="@+id/nombre" />
+
+    <TextView
+        android:text="punto "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pk"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginEnd="11dp"
+        android:layout_alignBottom="@+id/longitud"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>

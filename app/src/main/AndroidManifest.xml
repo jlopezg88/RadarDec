@@ -25,23 +25,23 @@
             android:glEsVersion="0x00020000"
             android:required="true" />
 
-        <activity android:name=".MainActivity">
+        <activity android:name=".ClasesPrincipales.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListarRadares">
+        <activity android:name=".ClasesPrincipales.ListarRadares">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity
-            android:name=".RadaresDestacados"
+            android:name=".ClasesPrincipales.RadaresDestacados"
             android:label="@string/title_activity_radares_destacados"
             android:theme="@style/AppTheme" />
-        <activity android:name=".RankingRadar"></activity>
+        <activity android:name=".ClasesPrincipales.RankingRadar"></activity>
     </application>
 
 </manifest>
