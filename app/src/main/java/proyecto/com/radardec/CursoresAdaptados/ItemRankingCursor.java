@@ -44,6 +44,6 @@ public class ItemRankingCursor extends CursorAdapter {
         tvLatitud.setText(String.valueOf(latitud));
         tvLongitud.setText(String.valueOf(longitud));
         tvRanking.setText(String.valueOf(ranking));
-
+        
     }
 }
